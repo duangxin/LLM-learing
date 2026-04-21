@@ -1,4 +1,4 @@
-# LLM-learing
+# LLM-learning
 
 该仓库用于记录我在九月份入学前的 LLM 学习路线。
 
