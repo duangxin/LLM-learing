@@ -1,2 +1,8 @@
 # LLM-learing
-Record the learning of LLM knowledge and literature reading before enrollment
+
+该仓库用于记录我在九月份入学前的 LLM 学习路线。
+
+主要内容包括：
+- 每周一进行阶段性学习总结；
+- 学习并整理相关论文；
+- 论文复现实践，并将论文与相关源码一并放入仓库。
